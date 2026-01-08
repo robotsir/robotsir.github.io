@@ -1,3 +1,7 @@
+---
+title: "Robotsir Github Page"
+---
+
 # John Doe — Robotics & Perception
 
 Robotics perception engineer with 13+ years of experience building real-world vision and manipulation systems.  
