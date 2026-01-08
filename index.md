@@ -14,7 +14,7 @@ Background spans industrial automation, embodied AI, and research-to-hardware im
 **Adaptation for DIY low-cost robotics**
 
 - Adapted the *Universal Manipulation Interface (UMI)* framework from its original  
-  **UR5 + GoPro Hero 9 + industrial gripper** configuration to a **home-built robotic platform**.
+  **UR5 + GoPro + industrial gripper** configuration to a **home-built robotic platform**.
 - Deployed on an **AR4 robotic arm**, **custom 3D-printed servo gripper**, and a **consumer-grade fisheye camera**.
 - Modified perception and manipulation pipelines to handle:
   - Mechanical and control constraints of hobby-grade robot arm
