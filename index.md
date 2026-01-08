@@ -18,8 +18,8 @@ Background spans industrial automation, embodied AI, and research-to-hardware im
   - Mechanical and control constraints of hobby-grade hardware
 - Focused on reproducibility, robustness, and practical embodiment of manipulation research.
 
-🔗 **Code:** https://github.com/yourname/umi-adaptation  
-🎥 **Video:** https://youtu.be/your-video-link
+🔗 **Code:** [github.com/yourname/umi-adaptation](https://github.com/yourname/umi-adaptation)  
+🎥 **Video:** [Watch implementation](https://youtu.be/your-video-link)
 
 ---
 
@@ -28,21 +28,21 @@ Background spans industrial automation, embodied AI, and research-to-hardware im
 ### RoboCook (2022)
 Fully automated robotic food kiosk with end-to-end perception and manipulation.
 
-🎥 https://youtu.be/xxx
+🎥 [Watch Video](https://youtu.be/xxx)
 
 ---
 
 ### AR3 / AR4 Robotic Arms
 DIY 6-DOF industrial-style robotic arms used for manipulation and perception experiments.
 
-🎥 https://youtu.be/xxx
+🎥 [Watch Video](https://youtu.be/xxx)
 
 ---
 
 ### Linorobot (2019)
 Omnidirectional autonomous mobile robot (AMR).
 
-🎥 https://youtu.be/xxx
+🎥 [Watch Video](https://youtu.be/xxx)
 
 ---
 
@@ -76,6 +76,6 @@ Used across production systems with **Cognex, Keyence, LMI, IDS**, and consumer-
 
 ## 🔗 Links
 
-- GitHub: https://github.com/yourname  
-- Resume (PDF): link-to-your-resume.pdf  
-- Email: john@xxxrobotics.com
+- [GitHub Profile](https://github.com/yourname)
+- [Resume (PDF)](link-to-your-resume.pdf)
+- Email: [john@xxxrobotics.com](mailto:john@xxxrobotics.com)
