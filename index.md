@@ -1,8 +1,8 @@
 ---
-title: "Robotsir Github Page"
+title: "Di Wang"
 ---
 
-# Robotsir — Robotics & Perception
+# Robotics & Perception
 
 Robotics perception specialist with 13+ years of experience building real-world vision and manipulation systems. Background spans industrial automation, embodied AI, and research-to-hardware implementation.
 
@@ -20,8 +20,8 @@ Robotics perception specialist with 13+ years of experience building real-world 
   - Low speed, high latency servo gripper
   - Low FPS USB camera
 
-🔗 **Code:** [github.com/robotsir/universal_manipulation_interface](https://github.com/robotsir/universal_manipulation_interface)  
-🎥 **Video:** [Watch demos](https://youtu.be/qmbZjXXNZu8)
+🔗 **Code:** [github.com/robotsir/umi_ar4_retrofit](https://github.com/robotsir/umi_ar4_retrofit)  
+🎥 **Video:** [![Watch the Demo](assets/UMI_AR4.gif)](https://youtu.be/DaHaX00mwM8)
 
 ---
 
