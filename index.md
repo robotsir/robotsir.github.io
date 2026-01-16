@@ -8,7 +8,7 @@ Robotics perception specialist with 13+ years of experience building real-world 
 
 ---
 
-## ⭐ Featured Project: Universal Manipulation Interface (UMI)
+## ⭐ Featured Project: UMI AR4 Retrofit
 
 **Adaptation for DIY low-cost robotics**
 
@@ -21,7 +21,9 @@ Robotics perception specialist with 13+ years of experience building real-world 
   - Low FPS USB camera
 
 🔗 **Code:** [github.com/robotsir/umi_ar4_retrofit](https://github.com/robotsir/umi_ar4_retrofit)  
-🎥 **Video:** [![Watch the Demo](assets/UMI_AR4.gif)](https://youtu.be/DaHaX00mwM8)
+🎥 **Video:**
+
+[![Watch the Demo](assets/UMI_AR4.gif)](https://youtu.be/DaHaX00mwM8)
 
 ---
 
