@@ -4,7 +4,7 @@ title: "Di Wang"
 
 # Robotics & Perception
 
-Robotics perception specialist with 13+ years of experience building real-world vision and manipulation systems. Background spans industrial automation, embodied AI, and research-to-hardware implementation.
+Robotics perception specialist with 14+ years of experience building real-world vision and manipulation systems. Background spans industrial automation, embodied AI, and research-to-hardware implementation.
 
 ---
 
